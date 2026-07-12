@@ -1,0 +1,39 @@
+{
+  "name": "skills-cli",
+  "version": "1.0.0",
+  "description": "CLI tool to initialize, create, list, and validate AI Agent Skills and Rules.",
+  "main": "src/index.js",
+  "bin": {
+    "skills": "./bin/cli.js"
+  },
+  "type": "module",
+  "files": [
+    "bin",
+    "src",
+    "templates"
+  ],
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": [
+    "agent-skills",
+    "ai-agents",
+    "cli",
+    "developer-tools",
+    "customizations"
+  ],
+  "author": "muhammadrafiq",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muhammadrafiq/skills-cli.git"
+  },
+  "bugs": {
+    "url": "https://github.com/muhammadrafiq/skills-cli/issues"
+  },
+  "homepage": "https://github.com/muhammadrafiq/skills-cli#readme"
+}
+

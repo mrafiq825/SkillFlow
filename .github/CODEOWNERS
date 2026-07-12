@@ -1,0 +1,7 @@
+# Global owners
+*       @muhammadrafiq
+
+# Specific paths
+/bin/   @muhammadrafiq
+/src/   @muhammadrafiq
+/tests/ @muhammadrafiq

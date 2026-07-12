@@ -1,0 +1,27 @@
+name: Documentation
+description: Suggest improvements, corrections, or updates to the documentation
+labels: ["documentation"]
+body:
+  - type: textarea
+    id: details
+    attributes:
+      label: Documentation Page/Section
+      description: Where in the documentation is the change needed?
+      placeholder: e.g. "README.md - Installation section"
+    validations:
+      required: true
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: What is missing or incorrect?
+      description: Explain the problem with the current documentation.
+      placeholder: e.g. "The installation command should use global -g flag..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: solution
+    attributes:
+      label: Proposed Improvement
+      description: Describe the changes you would like to see.

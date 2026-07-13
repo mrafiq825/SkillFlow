@@ -1,0 +1,9 @@
+# Ignore development configurations and tests
+.git/
+.github/
+.gitignore
+.npmignore
+tests/
+examples/sample-project/
+.temp-*/
+*.log

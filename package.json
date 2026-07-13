@@ -1,39 +1,28 @@
 {
-  "name": "skills-cli",
+  "name": "skillflow",
   "version": "1.0.0",
-  "description": "CLI tool to initialize, create, list, and validate AI Agent Skills and Rules.",
-  "main": "src/index.js",
-  "bin": {
-    "skills": "./bin/cli.js"
-  },
+  "description": "A collection of reusable, production-ready AI engineering skills for coding agents.",
+  "main": "index.js",
   "type": "module",
-  "files": [
-    "bin",
-    "src",
-    "templates"
-  ],
-  "engines": {
-    "node": ">=18.0.0"
-  },
-  "scripts": {
-    "test": "node --test"
-  },
   "keywords": [
-    "agent-skills",
-    "ai-agents",
-    "cli",
-    "developer-tools",
-    "customizations"
+    "ai-skills",
+    "agent-rules",
+    "prompt-engineering",
+    "developer-experience",
+    "ai-agent",
+    "code-review",
+    "security-audit"
   ],
   "author": "muhammadrafiq",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/muhammadrafiq/skills-cli.git"
+    "url": "git+https://github.com/muhammadrafiq/skillflow.git"
   },
   "bugs": {
-    "url": "https://github.com/muhammadrafiq/skills-cli/issues"
+    "url": "https://github.com/muhammadrafiq/skillflow/issues"
   },
-  "homepage": "https://github.com/muhammadrafiq/skills-cli#readme"
+  "homepage": "https://github.com/muhammadrafiq/skillflow#readme",
+  "dependencies": {},
+  "devDependencies": {}
 }
-

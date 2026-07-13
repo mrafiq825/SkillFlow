@@ -3,13 +3,13 @@
 This file defines workspace-scoped rules, constraints, and instructions that AI agents MUST follow.
 
 ## Workspace Conventions
-- Language/Framework style rules (e.g. "Use ES Modules for Node.js projects").
-- Testing and linting expectations.
+- Style and structure conventions for components, libraries, and frameworks.
+- Testing, linting, and formatting standards.
 
 ## Code Standards
 - Code formatting and documentation standards.
-- Handling of error states.
+- Exception handling and error states.
 
 ## Workflow Instructions
-- Pre-execution checklist.
-- Validation guidelines.
+- Pre-execution checklists.
+- Validation guidelines and deployment constraints.

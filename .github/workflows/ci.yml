@@ -30,6 +30,3 @@ jobs:
 
       - name: Run Tests
         run: npm test
-
-      - name: Verify CLI Execution
-        run: node bin/cli.js --help

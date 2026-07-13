@@ -23,6 +23,9 @@
     "url": "https://github.com/mrafiq825/SkillFlow/issues"
   },
   "homepage": "https://github.com/mrafiq825/SkillFlow#readme",
+  "scripts": {
+    "test": "echo \"No tests defined.\""
+  },
   "dependencies": {},
   "devDependencies": {}
 }

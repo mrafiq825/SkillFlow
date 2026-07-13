@@ -17,12 +17,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/muhammadrafiq/skillflow.git"
+    "url": "git+https://github.com/mrafiq825/SkillFlow.git"
   },
   "bugs": {
-    "url": "https://github.com/muhammadrafiq/skillflow/issues"
+    "url": "https://github.com/mrafiq825/SkillFlow/issues"
   },
-  "homepage": "https://github.com/muhammadrafiq/skillflow#readme",
+  "homepage": "https://github.com/mrafiq825/SkillFlow#readme",
   "dependencies": {},
   "devDependencies": {}
 }

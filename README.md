@@ -30,7 +30,7 @@ You can install or reference these agent skills inside your repository by initia
 npx skills init
 
 # Add skills package to your workspace
-npx skills@latest add mrafiq/skills
+npx skills@latest add mrafiq825/SkillFlow
 ```
 
 Alternatively, copy the specific `skills/` folders directly into your local `.agents/skills/` directory.

@@ -17,7 +17,7 @@ Each skill is written as an explicit engineering workflow rather than a generic 
 - **18 Specialized Skills**: Covers everything from system architecture, database migrations, and CI/CD pipelines to security audits, performance profiling, and prompt engineering.
 - **Trigger-Ready Frontmatter**: YAML metadata defines trigger conditions to help agents invoke the correct instruction set at the correct time.
 - **Deterministic Workflows**: Multi-step workflows structure the agent's problem-solving process to reduce hallucinations and errors.
-- **Ready for GitHub & npm**: Fully compatible with the `skills-cli` ecosystem for distribution and validation.
+
 
 ---
 
